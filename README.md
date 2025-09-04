@@ -2,10 +2,6 @@
 
 [![Discord Support](https://img.shields.io/badge/Discord-Support-blue?logo=discord&logoColor=white)](https://discord.gg/YOURSERVER)  
 
-**Author:** Tota Network  
-**Frameworks Supported:** ESX & QBCore  
-**Version:** Legacy  
-
 ---
 
 ## 📖 Overview  
